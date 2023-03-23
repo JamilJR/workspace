@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/dio-trilha-java-basico/TiposVariaveis/TiposVariaveis.iml" filepath="$PROJECT_DIR$/dio-trilha-java-basico/TiposVariaveis/TiposVariaveis.iml" />
+      <module fileurl="file://$PROJECT_DIR$/estrutura-de-repeticoes-e-arrays/estrutura-de-repeticoes-e-arrays.iml" filepath="$PROJECT_DIR$/estrutura-de-repeticoes-e-arrays/estrutura-de-repeticoes-e-arrays.iml" />
+      <module fileurl="file://$PROJECT_DIR$/logica-condicional-contole-de-fluxo-dio/logica-condicional-contole-de-fluxo-dio.iml" filepath="$PROJECT_DIR$/logica-condicional-contole-de-fluxo-dio/logica-condicional-contole-de-fluxo-dio.iml" />
+      <module fileurl="file://$PROJECT_DIR$/dio-trilha-java-basico/projeto-smart-tv/projeto-smart-tv.iml" filepath="$PROJECT_DIR$/dio-trilha-java-basico/projeto-smart-tv/projeto-smart-tv.iml" />
+      <module fileurl="file://$PROJECT_DIR$/dio-trilha-java-basico/terminal-e-argumentos/terminal-e-argumentos.iml" filepath="$PROJECT_DIR$/dio-trilha-java-basico/terminal-e-argumentos/terminal-e-argumentos.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/workspace.iml" filepath="$PROJECT_DIR$/.idea/workspace.iml" />
+    </modules>
+  </component>
+</project>
