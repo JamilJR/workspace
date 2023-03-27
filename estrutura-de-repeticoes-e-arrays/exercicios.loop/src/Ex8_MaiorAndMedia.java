@@ -5,7 +5,7 @@ Faça um programa que leia 5 números
 e informe o maior número
 e a média desses números.
 */
-public class MaiorAndMedia {
+public class Ex8_MaiorAndMedia {
     public static void main(String[] args) {
         Scanner scan = new Scanner(System.in);
 
@@ -21,6 +21,7 @@ public class MaiorAndMedia {
             count++;
         } while (count < 5);
         System.out.println("Maior: " + maior);
+        System.out.println("Soma: " + soma);
         System.out.println("Média: " + (soma/5));
     }
 

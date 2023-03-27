@@ -3,6 +3,8 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/.idea/estrutura-de-repeticoes-e-arrays.iml" filepath="$PROJECT_DIR$/.idea/estrutura-de-repeticoes-e-arrays.iml" />
+      <module fileurl="file://$PROJECT_DIR$/exercicios.array/exercicios.array.iml" filepath="$PROJECT_DIR$/exercicios.array/exercicios.array.iml" />
+      <module fileurl="file://$PROJECT_DIR$/exercicios.loop/exercicios.loop.iml" filepath="$PROJECT_DIR$/exercicios.loop/exercicios.loop.iml" />
     </modules>
   </component>
 </project>
